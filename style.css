@@ -47,4 +47,5 @@ button{
 input{
     position: absolute;
     left: 300px;
+    user-select: none;
 }
