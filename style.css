@@ -46,6 +46,7 @@ button{
 }
 input{
     position: absolute;
-    left: 300px;
+    left: 700px;
+    top: 100px;
     user-select: none;
 }
