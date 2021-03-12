@@ -20,4 +20,5 @@ btn2.onclick = function(){
     txt.select();
     document.execCommand('copy');
     alert(txt.value+ '  copied!');
+    txt.value = '';
 }
